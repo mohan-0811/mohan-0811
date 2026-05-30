@@ -14,7 +14,7 @@
 class MohanaKrishna:
     def __init__(self):
         self.name        = "Mohana Krishna V B"
-        self.location    = "Tamil Nadu, India 🇮🇳"
+        self.location    = "Chennai, Tamil Nadu, India 🇮🇳"
         self.degree      = "B.Tech – AI & Data Science (2022–2026)"
         self.college     = "Tagore Engineering College"
         self.email       = "vbmohanakrishna@gmail.com"
