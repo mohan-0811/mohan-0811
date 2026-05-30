@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohana%20Krishna%20V%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20AI%20%26%20Data%20Science%20Undergrad%20%7C%20ML%20Engineer%20in%20the%20Making&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Mohana+Krishna+%F0%9F%91%8B;Data+Analyst+%7C+ML+Enthusiast;Python+%2B+SQL+%2B+Power+BI+Developer;Building+AI-Driven+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Mohana+Krishna+%F0%9F%91%8B;Data+Analyst+%7C+ML+Enthusiast;Python+%2B+SQL+%2B+Power+BI+Developer;Building+AI-Driven+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,7 +17,7 @@ class MohanaKrishna:
         self.location    = "Tamil Nadu, India 🇮🇳"
         self.degree      = "B.Tech – AI & Data Science (2022–2026)"
         self.college     = "Tagore Engineering College"
-        self.email       = "mohan-0811@gmail.com"
+        self.email       = "vbmohanakrishna@gmail.com"
         self.linkedin    = "linkedin.com/in/mohana-krishna-v-b"
 
         self.stack = [
@@ -96,12 +94,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mohan-0811">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohan-0811&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/mohan-0811">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-0811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohan-0811&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-0811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </div>
 
 ---
@@ -125,7 +120,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohan-0811&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohan-0811&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
@@ -183,7 +178,7 @@ print(me.motto())
 |:--:|:------------|:--------|
 | 📜 | **20+ Certifications** | Data Science, Machine Learning, Predictive Analytics & Business Intelligence |
 | 🎖️ | **LinkedIn Skill Badges** | Data Analysis, SQL, Python, Data Visualization |
-| 🌐 | **International E-Conference Speaker** | A2Z Research & Analytics Pvt. Ltd. — 2024 |
+| 🌐 | **International E-Conference** | A2Z Research & Analytics Pvt. Ltd. — 2024 |
 | 🤝 | **Dual Internships (2024)** | Completed AI/ML and Data Science internships in the same year |
 
 </div>
@@ -194,10 +189,10 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| 🎓 B.Tech – Artificial Intelligence & Data Science | Tagore Engineering College, Tamil Nadu | 2022 – 2026 | In Progress |
-| 📘 Higher Secondary Certificate (HSC) | Vivekananda Vidyalaya Matric. Hr. Sec. School, Tamil Nadu | 2020 – 2022 | — |
+| Degree | Institution | Year |
+|:-------|:------------|:----:|
+| 🎓 B.Tech – Artificial Intelligence & Data Science | Tagore Engineering College, Tamil Nadu | 2022 – 2026 |
+| 📘 Higher Secondary Certificate (HSC) | Vivekananda Vidyalaya Matric. Hr. Sec. School, Tamil Nadu | 2020 – 2022 |
 
 </div>
 
@@ -220,11 +215,11 @@ print(me.motto())
   <br/><br/>
   <i>✨ "Turn raw data into real decisions." ✨</i>
   <br/><br/>
-  <a href="mailto:mohan-0811@gmail.com">
+  <a href="mailto:vbmohanakrishna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/mohana-krishna-v-b">
+  <a href="https://www.linkedin.com/in/mohana-krishna-v-b-7417a127a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
