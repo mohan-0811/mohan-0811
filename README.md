@@ -18,7 +18,7 @@ class MohanaKrishna:
         self.degree      = "B.Tech – AI & Data Science (2022–2026)"
         self.college     = "Tagore Engineering College"
         self.email       = "vbmohanakrishna@gmail.com"
-        self.linkedin    = "linkedin.com/in/mohana-krishna-v-b"
+        self.linkedin    = "https://www.linkedin.com/in/mohana-krishna-v-b-7417a127a/
 
         self.stack = [
             "Python", "SQL", "JavaScript",
