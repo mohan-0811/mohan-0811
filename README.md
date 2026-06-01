@@ -11,7 +11,7 @@
 ```python
 # mohana_krishna.py
 
-class MohanaKrishna:
+class Mohana_Krishna:
     def __init__(self):
         self.name        = "Mohana Krishna V B"
         self.location    = "Chennai, Tamil Nadu, India 🇮🇳"
